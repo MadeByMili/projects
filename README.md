@@ -3,7 +3,7 @@
 Willkommen auf meiner persönlichen Projektseite!  
 Hier findest du eine Auswahl an Programmen, Tools und kleinen Spielen, die ich im Laufe meines Studiums und in meiner Freizeit selbst entwickelt habe.
 
-🔗 **Live ansehen:** [Hier klicken](https://MadeByMili.github.io/portfolio/)
+🔗 **Live ansehen:** [Hier klicken](https://madebymili.github.io/projects/)
 
 ---
 
